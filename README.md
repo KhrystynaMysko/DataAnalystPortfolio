@@ -8,7 +8,7 @@ KPMG AU Data Analytics Job Simulation on Forage - September 2023
 •	Developed dashboards to communicate findings with visuals
 
 **Project 2. Google Advanced Data Analytics Certification program**
-Project goal: to build a machine learning model to predict user churn. The model is based on data collected from users of the Waze app.
+Project goal: to build a machine learning model to predict user churn. The model is based on data collected from users of the Waze app (fictional data)
 Stage 1. Prepare a project plan
 Stage 2. Compile summary information about the data
 Stage 3. Data exploration and cleaning (EDA) - in progress
